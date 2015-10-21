@@ -2,8 +2,7 @@
 title: "Literature Review"
 authors: "Björn Boening, Laurence Hendry, and Cody Koebnick"
 date: "The 21st of October, 2015"
-bibliography: 
-  - library.bib
+bibliography: library.bib
 nocite: |
   @Beckman2002a
   @Casella2006
@@ -24,10 +23,6 @@ nocite: |
   @Wang2013
   @Wang2013a
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Introduction
 
