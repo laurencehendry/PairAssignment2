@@ -1,0 +1,63 @@
+---
+title: "Literature Review"
+authors: "Björn Boening, Laurence Hendry, and Cody Koebnick"
+date: "The 21st of October, 2015"
+nocite: |
+  @Beckman2002a
+  @Casella2006
+  @Daxecker2015
+  @ElioMarchione2014
+  @Granovetter1973
+  @Greengard.2012
+  @Grover2007
+  @Hanson2010
+  @Kaluza2010
+  @Kiourktsoglou2012
+  @Marchione2013
+  @Mastrobuoni2014
+  @Mejia.2009
+  @Short.2008
+  @Stomakhin.2011
+  @Twyman-Ghoshal2014
+  @Wang2013
+  @Wang2013a
+bibliography: 
+  - library.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+This is the introduction section, it should give a quick idea of the topic of the literature review, such as the central theme or organizational pattern.
+
+## Body
+
+The body contains your discussion of sources and is organized either chronologically, thematically, or methodologically (see below for more information on each).
+
+## Conclusions/Recommendations: 
+
+The conclusion is where you discuss what you have drawn from reviewing literature so far. Where might the discussion proceed?
+
+##  Extra formatting information incase we need it, bros
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+##Cited Works:
+
