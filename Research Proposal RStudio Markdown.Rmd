@@ -30,6 +30,7 @@ bibliography:
 ```{r include=FALSE}
 setwd('PairAssignment2/library.bib')
 ```
+git status
 
 ## 1. Introduction: 
 ### A. Research Question
