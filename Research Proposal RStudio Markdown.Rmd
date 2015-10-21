@@ -27,6 +27,10 @@ bibliography:
   - library.bib
 ---
 
+```{r include=FALSE}
+setwd('/PairAssignment2/')
+```
+
 ## 1. Introduction: 
 ### A. Research Question
 
