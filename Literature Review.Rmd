@@ -2,6 +2,8 @@
 title: "Literature Review"
 authors: "Björn Boening, Laurence Hendry, and Cody Koebnick"
 date: "The 21st of October, 2015"
+bibliography: 
+  - library.bib
 nocite: |
   @Beckman2002a
   @Casella2006
@@ -21,8 +23,6 @@ nocite: |
   @Twyman-Ghoshal2014
   @Wang2013
   @Wang2013a
-bibliography: 
-  - library.bib
 ---
 
 ```{r setup, include=FALSE}
