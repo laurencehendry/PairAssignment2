@@ -27,8 +27,9 @@ bibliography:
   - library.bib
 ---
 
-
-setwd('/PairAssignment2/')
+```{r include=FALSE}
+setwd('PairAssignment2/library.bib')
+```
 
 ## 1. Introduction: 
 ### A. Research Question
