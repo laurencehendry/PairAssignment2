@@ -95,7 +95,7 @@ provided. The more detailed the data we compile is, the better our prediction mo
 Furthermore we try to add data which is not correlated with other covariates, which can be 
 weather data for instance.
 
-##Cited Works:
+##Bibliography:
 
 
 
