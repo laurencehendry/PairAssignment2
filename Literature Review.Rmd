@@ -24,6 +24,28 @@ nocite: |
   @Wang2013a
 ---
 
+---
+title: "A Simple Project"
+author: "Christopher Gandrud"
+date: "8 October 2014"
+output:
+  html_document:
+    fig_caption: yes
+    number_sections: no
+  pdf_document:
+    fig_caption: yes
+    number_sections: yes
+bibliography:
+    - Packages.bib
+    - Main.bib
+---
+
+```{r include=FALSE}
+# Set working directory. Change as needed
+setwd('/git_repositories/laurencehendry/PairAssignment2/')
+```
+
+
 ## Introduction
 
 This is the introduction section, it should give a quick idea of the topic of the literature review, such as the central theme or organizational pattern.
