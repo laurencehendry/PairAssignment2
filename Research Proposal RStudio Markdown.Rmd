@@ -1,6 +1,6 @@
 ---
 title: "Pair Assignment 2: Maritime Policy Research Proposal"
-authors: "Björn Boening, Laurence Hendry, Cody Koebnick"
+author: "Björn Boening, Laurence Hendry, Cody Koebnick"
 date: "20th October 2015"
 output: html_document
 nocite: |
