@@ -1,6 +1,6 @@
 # Pair Assignment 2
 Proposal for Collaborative Research Project
-
+Björn Boening, Laurence Hendry, Cody Koebnick 
 
 Link to additional information regarding the assignment in Gandrud's Slides: https://cdn.rawgit.com/HertieDataScience/SyllabusAndLectures/master/LectureSlides/Lecture5/Lecture5.html#3
 
